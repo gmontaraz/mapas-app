@@ -10,7 +10,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "delete:docs": "del docs",
-    "copy:dist": "copyfiles dist/country-app/browser/* ./docs -f",
+    "copy:dist": "copyfiles dist/mapas-app/browser/* ./docs -f",
     "set-envs": "node ./scripts/set-envs.js"
   },
   "private": true,
